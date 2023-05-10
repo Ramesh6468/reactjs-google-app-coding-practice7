@@ -1,0 +1,23 @@
+/* Write your CSS here */
+
+.bgContainer {
+  background-color: #ffffff;
+}
+.searchContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.search {
+  color: #64748b;
+}
+.image {
+  height: 15px;
+  background-color: #ffffff;
+  border: none;
+  outline: none;
+}
+.searchcard {
+  border-radius: 10px;
+  border-color: black;
+}
